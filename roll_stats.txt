@@ -1,0 +1,6 @@
+Force [[3d6]]
+Agilité [[3d6]]
+Endurance [[3d6]]
+Présence [[3d6]]
+Intelligence [[3d6]]
+Chance [[3d6]]
