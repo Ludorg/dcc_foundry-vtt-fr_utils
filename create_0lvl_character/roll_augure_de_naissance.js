@@ -1,2 +1,2 @@
-const table = await fromUuid("RollTable.1krl23yaXiDLudJG"); // remplacer par l'id de la table 1-2
+const table = await fromUuid("Compendium.dcc-core-book.dcc-core-tables.RollTable.rf8qSPFamqmB5eQo");
 await table.draw();
